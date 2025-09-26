@@ -1,0 +1,90 @@
+
+Cadastro da cidade 1:
+Digite o código da cidade: 1100015
+Digite o nome da cidade: Porto Velho
+Digite o estado da cidade: RO
+Digite a população da cidade: 548000
+Digite o PIB da cidade (em bilh�es): 17.3
+Digite a área da cidade (em km�): 34082
+Digite o número de pontos turísticos: 12
+
+Cidade: Porto Velho (Código: 1100015)
+Estado: RO
+População: 548000
+PIB: R$ 17.30 bilhões
+Área: 34082.00 km²
+Pontos Turísticos: 12
+Densidade Populacional: 16.08 hab/km²
+PIB per capita: R$ 0.00
+
+Cadastro da cidade 2:
+Digite o código da cidade: 1302603
+Digite o nome da cidade: Manaus
+Digite o estado da cidade: AM
+Digite a população da cidade: 2256000
+Digite o PIB da cidade (em bilh�es): 73.5
+Digite a área da cidade (em km�): 11401
+Digite o número de pontos turísticos: 20
+
+Cidade: Manaus (Código: 1302603)
+Estado: AM
+População: 2256000
+PIB: R$ 73.50 bilhões
+Área: 11401.00 km²
+Pontos Tur�sticos: 20
+Densidade Populacional: 197.88 hab/km²
+PIB per capita: R$ 0.00
+
+Cadastro da cidade 3:
+Digite o código da cidade: 3304557
+Digite o nome da cidade: Rio de Janeiro
+Digite o estado da cidade: RJ
+Digite a população da cidade: 6718903
+Digite o PIB da cidade (em bilh�es): 415.0
+Digite a área da cidade (em km�): 1182
+Digite o número de pontos turísticos: 42
+
+Cidade: Rio de Janeiro (Código: 3304557)
+Estado: RJ
+População: 6718903
+PIB: R$ 415.00 bilhões
+Área: 1182.00 km²
+Pontos Turísticos: 42
+Densidade Populacional: 5684.35 hab/km²
+PIB per capita: R$ 0.00
+
+Cadastro da cidade 4:
+Digite o código da cidade: 3550308
+Digite o nome da cidade: Sao Pauilo   lo 
+Digite o estado da cidade: SP
+Digite a população da cidade: 12325232
+Digite o PIB da cidade (em bilh�es): 803.4
+Digite a área da cidade (em km�): 1521
+Digite o número de pontos turísticos: 60
+
+Cidade: Sao Paulo  (Código: 3550308)
+Estado: SP
+População: 12325232
+PIB: R$ 803.40 bilhões
+Área: 1521.00 km²
+Pontos Turísticos: 60
+Densidade Populacional: 8103.37 hab/km²
+PIB per capita: R$ 0.00
+
+Cadastro da cidade 5:
+Digite o código da cidade: 2927408
+Digite o nome da cidade: Salvador
+Digite o estado da cidade: BA
+Digite a população da cidade: 2886698
+Digite o PIB da cidade (em bilh�es): 67.3
+Digite a área da cidade (em km�): 693
+Digite o número de pontos turísticos: 30
+
+Cidade: Salvador (Código: 2927408)
+Estado: BA
+População: 2886698
+PIB: R$ 67.30 bilhões
+Área: 693.00 km²
+Pontos Tur�sticos: 30
+Densidade Populacional: 4165.51 hab/km²
+PIB per capita: R$ 0.00
