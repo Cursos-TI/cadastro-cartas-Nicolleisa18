@@ -31,7 +31,7 @@ Os dados são salvos automaticamente no arquivo `cidades.txt`.
 ## ▶️ Como rodar o programa
 
 1. Compile com GCC:
-
+  
 2. Rode o executável:
 
 3. Preencha os dados conforme solicitado no terminal.
